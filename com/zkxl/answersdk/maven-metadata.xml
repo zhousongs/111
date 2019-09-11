@@ -3,7 +3,7 @@
   <groupId>com.zkxl</groupId>
   <artifactId>answersdk</artifactId>
   <versioning>
-    <release>0.1.2</release>
+    <release>0.1.3</release>
     <versions>
       <version>0.0.5</version>
       <version>1.2.13</version>
@@ -14,7 +14,8 @@
       <version>0.0.4</version>
       <version>0.1.1</version>
       <version>0.1.2</version>
+      <version>0.1.3</version>
     </versions>
-    <lastUpdated>20190911065846</lastUpdated>
+    <lastUpdated>20190911070034</lastUpdated>
   </versioning>
 </metadata>
